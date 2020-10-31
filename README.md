@@ -9,8 +9,7 @@
 
 
 
-## I'm a Husband, Son, Developer, and Student!!
-
+## I'm a Full Stack Web Developer! 👨‍💻
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
