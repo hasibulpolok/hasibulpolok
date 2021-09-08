@@ -19,7 +19,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/43sppjrj05hc896xo0e70y9bh)
+[<img src="https://www.freepnglogos.com/pics/spotify-logo-png" alt="HasibulPolok Spotify Playing" width="350" />](https://open.spotify.com/user/43sppjrj05hc896xo0e70y9bh)
 
 <br />
 
