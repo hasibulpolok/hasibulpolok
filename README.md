@@ -69,9 +69,14 @@ I focus on:
 
 <p align="center">
   <a href="https://open.spotify.com/user/43sppjrj05hc896xo0e70y9bh" target="_blank">
-    <img src="[https://spotify-github-profile.vercel.app/api/view?uid=43sppjrj05hc896xo0e70y9bh&cover_image=true&theme=default&background_color=000000](https://i.ibb.co.com/TDkMS11W/spotify-logo-png-seeklogo-408560.png)" />
+    <img 
+      src="https://i.ibb.co.com/TDkMS11W/spotify-logo-png-seeklogo-408560.png"
+      alt="Hasibul Polok on Spotify"
+      width="160"
+    />
   </a>
 </p>
+
 
 ---
 
