@@ -18,7 +18,7 @@
 ### Spotify 🎧
 
 <a href="https://open.spotify.com/user/43sppjrj05hc896xo0e70y9bh" target="_blank">
-  <img src="https://www.freepnglogos.com/pics/spotify-logo-png" alt="Hasibul Polok Spotify Profile" width="180">
+  <img src="https://i.ibb.co.com/TDkMS11W/spotify-logo-png-seeklogo-408560.png" alt="Hasibul Polok Spotify Profile" width="180">
 </a>
 
 
