@@ -97,7 +97,6 @@ I care about **clean architecture**, **performance**, and **developer experience
 - Strengths: UI quality, integration, performance, clean code
 - Contact: Email available on request / via LinkedIn
 
-- add here ### Hi there, I'm Hasibul Polok 👋
 
 #### Connect Me On Social Media
 
