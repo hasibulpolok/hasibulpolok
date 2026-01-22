@@ -59,7 +59,7 @@ I focus on:
   <a href="https://github.com/topics/express"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="46" /></a>
   <a href="https://github.com/topics/mongodb"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="46" /></a>
   <a href="https://github.com/topics/git"><img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/git/git.png" width="46" /></a>
-  <a href="https://github.com/topics/github"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="46" /></a>
+  <a href="https://github.com/topics/github"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="46" color="white" /></a>
   <a href="https://github.com/topics/linux"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="46" /></a>
 </p>
 
@@ -69,7 +69,7 @@ I focus on:
 
 <p align="center">
   <a href="https://open.spotify.com/user/43sppjrj05hc896xo0e70y9bh" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=43sppjrj05hc896xo0e70y9bh&cover_image=true&theme=default&background_color=000000" />
+    <img src="[https://spotify-github-profile.vercel.app/api/view?uid=43sppjrj05hc896xo0e70y9bh&cover_image=true&theme=default&background_color=000000](https://i.ibb.co.com/TDkMS11W/spotify-logo-png-seeklogo-408560.png)" />
   </a>
 </p>
 
