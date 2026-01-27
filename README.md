@@ -91,7 +91,7 @@ I focus on:
 ## 📊 GitHub Stats
 
 ![hasibulpolok's Stats](https://github-readme-stats.vercel.app/api?username=hasibulpolok&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
+![hasibulpolok's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulpolok&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ---
 
 ## 📌 Recruiter Quick Notes
