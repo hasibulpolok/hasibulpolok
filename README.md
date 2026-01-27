@@ -90,13 +90,7 @@ I focus on:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasibulpolok&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasibulpolok&theme=transparent&hide_border=true" />
-</p>
+![hasibulpolok's Stats](https://github-readme-stats.vercel.app/api?username=hasibulpolok&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ---
 
