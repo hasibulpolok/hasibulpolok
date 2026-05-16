@@ -1,19 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=32&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I%E2%80%99m+Hasibul+Polok+%F0%9F%91%8B;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Laravel;Building+Scalable%2C+High-Performance+Apps" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=hasibulpolok">
-    <img src="https://komarev.com/ghpvc/?username=hasibulpolok&style=flat-square&color=38BDF8&label=Profile+Views" />
-  </a>
-  <a href="https://github.com/hasibulpolok?tab=followers">
-    <img src="https://img.shields.io/github/followers/hasibulpolok?style=flat-square&color=38BDF8&label=Followers" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat-square" />
-</p>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:818CF8&height=200&section=header&text=Hasibul%20Polok&fontSize=52&fontColor=fff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descColor=cbd5e1&animation=fadeIn" width="100%" />
